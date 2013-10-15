@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-  cout << "Tram param" << endl;
+  cout << "Koks dar tram param?" << endl;
   return 0;
 }
